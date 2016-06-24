@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="90a6fe1c-2760-49a3-874f-12615db0dff0" solutionId="90a6fe1c-2760-49a3-874f-12615db0dff0" resetWebServer="false" sharePointProductVersion="15.0" name="InPresAddIn" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="05786cf2-6537-406b-a8c2-8eae3984039f" />
+  </projectItems>
+</package>
