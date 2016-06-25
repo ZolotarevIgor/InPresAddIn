@@ -74,6 +74,7 @@
                         {
                             goToSlideByIndex(storedSlideIndex);
                         }
+                        //
                         // код для отправки сообщений на сервер?:
                         //$.post('/remote-url', { xml: yourXMLString });
                         //показываем номер слайда(для примера):
